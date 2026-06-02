@@ -1,7 +1,7 @@
 # SQL-Power-BI-Project
 
 # PROBLEM STATEMENT - 1
-We need to analyza key indicators for our pizza sales data to gain insights into our business performance. Specifically, we eant to calculate the following metrics:
+We need to analyza key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
 
 **1. Total Revenue:** The sum of the total price of all pizza orders.
 
